@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WPChandra Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar. You can change scrollbar color, border radius, scroll speed, width, hide delay & other settings.
+WPChandra Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar.
 
 == Description ==
 
