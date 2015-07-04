@@ -1,4 +1,4 @@
-﻿=== WPChandra Awesome Custom Scrollbar ===
+﻿=== Awesome Custom Scrollbar ===
 Contributors:wp-chandra,chandgiri67
 Tags: awesome custom scrollbar,scrollbar, custom scrollbar,scroller,wpchandra, scroll, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 3.0.1
