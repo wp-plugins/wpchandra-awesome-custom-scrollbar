@@ -4,7 +4,7 @@ Plugin Name: Awesome Custom Scrollbar
 Plugin URI: http://www.wpchandra.com/
 Description: Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar. You can change scrollbar color, border radius, scroll speed, width, hide delay & other settings.
 Author: Chandrakesh Kumar
-Version: 1.0  
+Version: 2.0  
 Author URI: http://www.wpchandra.com/
 */ 
 function wpchandra_custom_scrollbar_admin_menu() { 
@@ -25,12 +25,12 @@ function wpchandra_custom_scrollbar_register_settings() { //register settings
 function wpchandra_custom_scrollbar_activate() { //add default setting values on activation
     add_option( 'wpchandra_custom_scrollbar_show', 'show', '', 'yes' );
 	add_option( 'wpchandra_custom_scrollbar_width', '8px', '', 'yes' );
-	add_option( 'wpchandra_custom_scrollbar_bgcolor', '#1e73be', '', 'yes' );
-	add_option( 'wpchandra_custom_scrollbar_border_color', '#81d742', '', 'yes' );
+	add_option( 'wpchandra_custom_scrollbar_bgcolor', '#d6d6d6', '', 'yes' );
+	add_option( 'wpchandra_custom_scrollbar_border_color', '#000000', '', 'yes' );
 	add_option( 'wpchandra_custom_scrollbar_border_radius', '0px', '', 'yes' );
 	add_option( 'wpchandra_custom_scrollbar_speed', '100', '', 'yes' );
 	add_option( 'wpchandra_custom_scrollbar_opacity', '1', '', 'yes' );
-	add_option( 'wpchandra_custom_scrollbar_autohide', 'true', '', 'yes' );
+	add_option( 'wpchandra_custom_scrollbar_autohide', 'false', '', 'yes' );
 	add_option( 'wpchandra_custom_scrollbar_hidecursordelay', '400', '', 'yes' );
 }
 function wpchandra_custom_scrollbar_deactivate() { //delete setting and values on deactivation
