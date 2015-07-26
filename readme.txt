@@ -1,5 +1,5 @@
 ﻿=== Awesome Custom Scrollbar ===
-Contributors:wp-chandra,chandgiri67
+Contributors:chandrakeshkumar,wp-chandra,chandgiri67
 Tags: awesome custom scrollbar,scrollbar, custom scrollbar,scroller,wpchandra, scroll, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments,admin login, author, author profile, Avatar, avatar upload, builder, captcha, custom field registration, custom fields, custom login, custom password reset, custom redirects, custom registration, custom registration form, custom registration page, custom user profile, customize profile, customize registration email, edit profile, email confirmation, extra user fields, Facebook Login, file uploads, form builder, front end, front-end edit profile, front-end login, front-end profile, front-end register, front-end registration, front-end user listing, front-end user registration, frontend, github, github login, google, Google Login, gravatar, hide wp-admin, linkedin, linkedin login, log in, login, login redirect, login widget, member directory, members, minimum password length, minimum password strength, multiple registration forms, password reset, password strength meter, profile, profile builder, recaptcha, register, register form, registration, registration page, shortcode, shortcodes, sidebar, sidebar login, social, social login, tab widget, twitter, twitter login, user, user approval, user custom fields, user email, user listing, user login, user profile, user profile page, User Registration, user registration form, user-fields, users, widget, wordpress login, custom, e-mail, gravatar, log in, login, redirection, register, registration, sidebar, theme, widget, extra css, theme, theme colors, Theme customization, theme styles, theme tweaking, child theme, child theme creator, child theme generator, child-themes, CSS, css editor, customize theme, customizer, responsive, stylesheet,chandrakesh kumar,chandgiri
 Requires at least: 3.0.1
 Tested up to: 4.1.1
@@ -7,13 +7,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WPChandra Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar.
+Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar.
 
 == Description ==
 
-### WPChandra Awesome Custom Scrollbar 
+### Awesome Custom Scrollbar 
 
-WPChandra Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar. You can change scrollbar color, border radius, scroll speed, width, hide delay & other settings.
+Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar. You can change scrollbar color, border radius, scroll speed, width, hide delay & other settings.
 
 ### The Features
 
