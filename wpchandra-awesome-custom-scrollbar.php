@@ -6,7 +6,7 @@ Description: Awesome Custom Scrollbar is a jQuery custom scrollbar for your word
 Author: Chandrakesh Kumar
 Version: 2.0  
 Author URI: http://www.wpchandra.com/ 
-*/   
+*/    
 function wpchandra_custom_scrollbar_admin_menu() { 
 	add_options_page('WPChandra Custom Scrollbar', 'WPChandra Custom Scrollbar', 'manage_options', 'wpchandra-scrollbar-settings', 'wpchandra_scrollbar_settings');
 	add_action( 'admin_init', 'wpchandra_custom_scrollbar_register_settings' );
