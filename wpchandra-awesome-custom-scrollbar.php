@@ -5,7 +5,7 @@ Plugin URI: http://www.wpchandra.com/
 Description: Awesome Custom Scrollbar is a jQuery custom scrollbar for your wordpress website. This plugin will enable awesome custom scrollbar. You can change scrollbar color, border radius, scroll speed, width, hide delay & other settings.
 Author: Chandrakesh Kumar   
 Version: 2.0   
-Author URI: http://www.wpchandra.com/  
+Author URI: http://www.wpchandra.com/   
 */     
 function wpchandra_custom_scrollbar_admin_menu() {  
 	add_options_page('WPChandra Custom Scrollbar', 'WPChandra Custom Scrollbar', 'manage_options', 'wpchandra-scrollbar-settings', 'wpchandra_scrollbar_settings');
